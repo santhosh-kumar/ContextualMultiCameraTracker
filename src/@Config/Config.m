@@ -55,7 +55,7 @@ classdef Config < handle
         POSITIVE_SAMPLE_SELECTION_THRESHOLD              = 0.8;             % Positive sample selection threshold
         MEANSHIFT_BANDWIDTH                              = 20;              % Meanshift Bandwidth parameter
         MEANSHIFT_EPSILON                                = 0.5;             % Meanshift Epsilon
-        MAX_NUMBER_SHARED_NEGATIVE_EXAMPLES              = 200;              % Max Negative Samples from other objects for training
+        MAX_NUMBER_SHARED_NEGATIVE_EXAMPLES              = 200;             % Max Negative Samples from other objects for training
         WEAK_CLASSIFIER_TYPE                             = 'BOOST';         % Weak Classifier Type BOOST or SVM
         CONFIDENCE_THRESHOLD                             = 0.5;             % Confidence threshold for meanshift
         MEANSHIFT_ITERATIONS                             = 1000;            % Number of iterations for meanshift

@@ -12,7 +12,19 @@ ii) Run the tracker: main.m
 
 Dataset
 ------------
-Download the sample dataset archive in a supported format from: 
+i) Download the sample dataset archive in a supported format from: https://www.dropbox.com/s/p2sz9wea0gdnzug/data.tar.gz?dl=0
+
+ii) Untar the data folder:
+tar -xzf data.tar.gz
+
+iii) The folder structure would like this:
+
+.
+├── README.md
+├── data
+├── data.tar.gz
+├── libs
+└── src
 
 ### Contact ###
 [1] Santhoshkumar Sunderrajan( santhosh@ece.ucsb.edu)
