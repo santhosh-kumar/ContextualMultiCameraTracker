@@ -6,15 +6,13 @@ Usage
 
 In order to runthe tracker, use the following command:
 
-i) Set the dataset path and specify the number of objects in:
-setup.m
+i) Configure the tracker in @Config/Config.m:
 
-ii) Finally, run:
-main.m
+ii) Run the tracker: main.m
 
 Dataset
 ------------
-Download the sample dataset archive from: 
+Download the sample dataset archive in a supported format from: 
 
 ### Contact ###
 [1] Santhoshkumar Sunderrajan( santhosh@ece.ucsb.edu)
@@ -24,8 +22,20 @@ Website: http://vision.ece.ucsb.edu/~santhosh/
 ### Bibtex ###
 If you use the code in any of your research works, please cite the following papers:
 ~~~
+@inproceedings{sunderrajan2014robust,
+  title={Robust Multiple Camera Tracking with Spatial And Appearance Contexts},
+  author={Sunderrajan, Santhoshkumar and Jagadeesh, Vignesh and Manjunath, BS},
+  year={2015},
+}
 
-
+@inproceedings{sunderrajan2013multiple,
+  title={Multiple view discriminative appearance modeling with IMCMC for distributed tracking},
+  author={Sunderrajan, Santhoshkumar and Manjunath, BS},
+  booktitle={Distributed Smart Cameras (ICDSC), 2013 Seventh International Conference on},
+  pages={1--7},
+  year={2013},
+  organization={IEEE}
+}
 ~~~
 
 ### Disclaimer ###
