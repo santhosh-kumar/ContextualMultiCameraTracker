@@ -4,7 +4,7 @@ A multi-camera tracking algorithm using matlab.
 Usage
 ------------
 
-In order to runthe tracker, use the following command:
+In order to run the tracker, use the following command:
 
 i) Configure the tracker in @Config/Config.m:
 
