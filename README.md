@@ -31,7 +31,7 @@ iii) The folder structure would like this:
 ### Contact ###
 [1] Santhoshkumar Sunderrajan( santhosh@ece.ucsb.edu)
 
-Website: http://vision.ece.ucsb.edu/~santhosh/
+Website: http://santhoshsunderrajan.com/
 
 ### Bibtex ###
 If you use the code in any of your research works, please cite the following papers:
